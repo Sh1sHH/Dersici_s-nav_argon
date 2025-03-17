@@ -40,7 +40,7 @@ function Menu() {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link active" href="Table">
+            <a className="nav-link " href="Table">
               <div className="icon icon-shape icon-sm border-radius-md text-center me-2 d-flex align-items-center justify-content-center">
                 <i className="ni ni-calendar-grid-58 text-dark text-sm opacity-10" />
               </div>
